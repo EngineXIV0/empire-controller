@@ -1,0 +1,6 @@
+[
+  { "name": "agent-core-02", "host": "198.18.100.11", "port": 4002 },
+  { "name": "agent-core-03", "host": "198.18.100.12", "port": 4003 },
+  { "name": "agent-core-04", "host": "198.18.100.13", "port": 4004 },
+  { "name": "agent-core-05", "host": "198.18.100.14", "port": 4005 }
+]
